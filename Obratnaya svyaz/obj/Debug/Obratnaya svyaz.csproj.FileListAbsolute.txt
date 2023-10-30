@@ -1,0 +1,30 @@
+C:\PROG121\Obratnaya svyaz\obj\Debug\Obratnaya svyaz.csproj.AssemblyReference.cache
+C:\PROG121\Obratnaya svyaz\obj\Debug\MainWindow.g.cs
+C:\PROG121\Obratnaya svyaz\obj\Debug\App.g.cs
+C:\PROG121\Obratnaya svyaz\obj\Debug\Obratnaya svyaz_MarkupCompile.cache
+C:\PROG121\Obratnaya svyaz\obj\Debug\Obratnaya svyaz_MarkupCompile.lref
+C:\PROG121\Obratnaya svyaz\bin\Debug\Obratnaya svyaz.exe.config
+C:\PROG121\Obratnaya svyaz\bin\Debug\Obratnaya svyaz.exe
+C:\PROG121\Obratnaya svyaz\bin\Debug\Obratnaya svyaz.pdb
+C:\PROG121\Obratnaya svyaz\obj\Debug\MainWindow.baml
+C:\PROG121\Obratnaya svyaz\obj\Debug\Obratnaya svyaz.g.resources
+C:\PROG121\Obratnaya svyaz\obj\Debug\Obratnaya_svyaz.Properties.Resources.resources
+C:\PROG121\Obratnaya svyaz\obj\Debug\Obratnaya svyaz.csproj.GenerateResource.cache
+C:\PROG121\Obratnaya svyaz\obj\Debug\Obratnaya svyaz.csproj.CoreCompileInputs.cache
+C:\PROG121\Obratnaya svyaz\obj\Debug\Obratnaya svyaz.exe
+C:\PROG121\Obratnaya svyaz\obj\Debug\Obratnaya svyaz.pdb
+E:\Obratnaya svyaz\bin\Debug\Obratnaya svyaz.exe.config
+E:\Obratnaya svyaz\bin\Debug\Obratnaya svyaz.exe
+E:\Obratnaya svyaz\bin\Debug\Obratnaya svyaz.pdb
+E:\Obratnaya svyaz\obj\Debug\Obratnaya svyaz.csproj.AssemblyReference.cache
+E:\Obratnaya svyaz\obj\Debug\MainWindow.g.cs
+E:\Obratnaya svyaz\obj\Debug\App.g.cs
+E:\Obratnaya svyaz\obj\Debug\Obratnaya svyaz_MarkupCompile.cache
+E:\Obratnaya svyaz\obj\Debug\Obratnaya svyaz_MarkupCompile.lref
+E:\Obratnaya svyaz\obj\Debug\MainWindow.baml
+E:\Obratnaya svyaz\obj\Debug\Obratnaya svyaz.g.resources
+E:\Obratnaya svyaz\obj\Debug\Obratnaya_svyaz.Properties.Resources.resources
+E:\Obratnaya svyaz\obj\Debug\Obratnaya svyaz.csproj.GenerateResource.cache
+E:\Obratnaya svyaz\obj\Debug\Obratnaya svyaz.csproj.CoreCompileInputs.cache
+E:\Obratnaya svyaz\obj\Debug\Obratnaya svyaz.exe
+E:\Obratnaya svyaz\obj\Debug\Obratnaya svyaz.pdb
