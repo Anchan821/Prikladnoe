@@ -1,0 +1,25 @@
+﻿<Window x:Class="YprZadachami.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:YprZadachami"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Добавить задачу:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15"/>
+        <TextBox HorizontalAlignment="Left" Margin="19,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="177" Height="38" x:Name="TaskNameTextBox" Text="ливнуть с пары"/>
+        <TextBox HorizontalAlignment="Left" Margin="201,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="177" Height="38" x:Name="DeadlineTextBox" Text="конец пары"/>
+        <TextBox HorizontalAlignment="Left" Margin="383,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="177" Height="38" x:Name="PriorityTextBox" Text="максимальный"/>
+        <Label Content="Название задачи:*" HorizontalAlignment="Left" Margin="54,38,0,0" VerticalAlignment="Top"/>
+        <Label Content="Дедлайн:*" HorizontalAlignment="Left" Margin="259,38,0,0" VerticalAlignment="Top"/>
+        <Label Content="Приоритет:*" HorizontalAlignment="Left" Margin="435,38,0,0" VerticalAlignment="Top"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="720,20,0,0" VerticalAlignment="Top" FontSize="15" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Left" Margin="565,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="177" Height="38" x:Name="DescriptionTextBox" Text="зачем лол?"/>
+        <Label Content="Описание" HorizontalAlignment="Left" Margin="621,38,0,0" VerticalAlignment="Top"/>
+        <DataGrid x:Name="TaskDataGrid" Margin="19,119,85,10" SelectionChanged="TaskDataGrid_SelectionChanged">
+            <DataGrid.Columns>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

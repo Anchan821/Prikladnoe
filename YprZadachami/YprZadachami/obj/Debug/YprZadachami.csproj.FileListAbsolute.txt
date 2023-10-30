@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\YprZadachami\YprZadachami\bin\Debug\YprZadachami.exe.config
+C:\Users\User\source\repos\YprZadachami\YprZadachami\bin\Debug\YprZadachami.exe
+C:\Users\User\source\repos\YprZadachami\YprZadachami\bin\Debug\YprZadachami.pdb
+C:\Users\User\source\repos\YprZadachami\YprZadachami\obj\Debug\YprZadachami.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\YprZadachami\YprZadachami\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\YprZadachami\YprZadachami\obj\Debug\App.g.cs
+C:\Users\User\source\repos\YprZadachami\YprZadachami\obj\Debug\YprZadachami_MarkupCompile.cache
+C:\Users\User\source\repos\YprZadachami\YprZadachami\obj\Debug\YprZadachami_MarkupCompile.lref
+C:\Users\User\source\repos\YprZadachami\YprZadachami\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\YprZadachami\YprZadachami\obj\Debug\YprZadachami.g.resources
+C:\Users\User\source\repos\YprZadachami\YprZadachami\obj\Debug\YprZadachami.Properties.Resources.resources
+C:\Users\User\source\repos\YprZadachami\YprZadachami\obj\Debug\YprZadachami.csproj.GenerateResource.cache
+C:\Users\User\source\repos\YprZadachami\YprZadachami\obj\Debug\YprZadachami.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\YprZadachami\YprZadachami\obj\Debug\YprZadachami.exe
+C:\Users\User\source\repos\YprZadachami\YprZadachami\obj\Debug\YprZadachami.pdb
